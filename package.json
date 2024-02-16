@@ -1,0 +1,19 @@
+{
+  "name": "restaurant-page",
+  "version": "1.0.0",
+  "description": "A simple restaurant page",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hrid1402/Restaurant-Page.git"
+  },
+  "author": "Hrid1402",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hrid1402/Restaurant-Page/issues"
+  },
+  "homepage": "https://github.com/Hrid1402/Restaurant-Page#readme"
+}
