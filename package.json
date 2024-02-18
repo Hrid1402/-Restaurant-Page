@@ -4,6 +4,7 @@
   "description": "A simple restaurant page",
   "main": "index.js",
   "scripts": {
+    "build": "webpack",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -15,5 +16,15 @@
   "bugs": {
     "url": "https://github.com/Hrid1402/Restaurant-Page/issues"
   },
-  "homepage": "https://github.com/Hrid1402/Restaurant-Page#readme"
+  "homepage": "https://github.com/Hrid1402/Restaurant-Page#readme",
+  "devDependencies": {
+    "css-loader": "^6.10.0",
+    "style-loader": "^3.3.4",
+    "webpack": "^5.90.2",
+    "webpack-cli": "^5.1.4"
+  },
+  "dependencies": {
+    "file-loader": "^6.2.0",
+    "webpack-dev-server": "^5.0.2"
+  }
 }
